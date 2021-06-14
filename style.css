@@ -744,3 +744,29 @@ audio
 
     height:100vh
 }
+@media(max-width:1200px){
+    .nav
+    {
+        display: none;
+    }
+    .center
+    {
+        width: 85%;
+    }
+    .nav1
+    {
+        display: none;
+    }
+}
+@media(max-width:1200px){
+    .hed ul
+    {
+        margin-top: 22vh;
+    }
+}
+@media(max-width:1000px){
+    .hed ul
+    {
+        margin-top: 21vh;
+    }
+}
